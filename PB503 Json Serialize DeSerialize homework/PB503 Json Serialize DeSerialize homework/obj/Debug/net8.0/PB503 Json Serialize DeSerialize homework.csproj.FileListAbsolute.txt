@@ -12,3 +12,4 @@ C:\Users\ASUS\Desktop\Code Academy\Homeworks\18.12.2024\PB503 Json Serialize DeS
 C:\Users\ASUS\Desktop\Code Academy\Homeworks\18.12.2024\PB503 Json Serialize DeSerialize homework\PB503 Json Serialize DeSerialize homework\obj\Debug\net8.0\PB503 Json Serialize DeSerialize homework.pdb
 C:\Users\ASUS\Desktop\Code Academy\Homeworks\18.12.2024\PB503 Json Serialize DeSerialize homework\PB503 Json Serialize DeSerialize homework\obj\Debug\net8.0\PB503 Json Serialize DeSerialize homework.genruntimeconfig.cache
 C:\Users\ASUS\Desktop\Code Academy\Homeworks\18.12.2024\PB503 Json Serialize DeSerialize homework\PB503 Json Serialize DeSerialize homework\obj\Debug\net8.0\ref\PB503 Json Serialize DeSerialize homework.dll
+C:\Users\ASUS\Desktop\Code Academy\Homeworks\18.12.2024\PB503 Json Serialize DeSerialize homework\PB503 Json Serialize DeSerialize homework\obj\Debug\net8.0\PB503 Json Serialize DeSerialize homework.sourcelink.json

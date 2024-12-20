@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PB503 Json Serialize DeSerialize homework")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f24125dfa5b66f7cd77fa95c19235ab7d3329cfd")]
 [assembly: System.Reflection.AssemblyProductAttribute("PB503 Json Serialize DeSerialize homework")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PB503 Json Serialize DeSerialize homework")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

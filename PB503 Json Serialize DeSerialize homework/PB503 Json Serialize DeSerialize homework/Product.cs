@@ -11,14 +11,14 @@ namespace PB503_Json_Serialize_DeSerialize_homework
         private static byte _id;
         public byte Id { get; set; }
         public string Name { get; set; }
-        public double _costPrice { get; set; }
+        public double CostPrice { get; set; }
         private double _salesPrice;
         public double SalesPrice
         {
             get => _salesPrice;
             set
             {
-                if (value > _costPrice)
+                if (value > CostPrice)
                 {
                     _salesPrice = value;
                 }

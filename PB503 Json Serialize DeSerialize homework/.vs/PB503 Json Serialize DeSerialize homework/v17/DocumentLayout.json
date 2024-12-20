@@ -22,11 +22,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
             },
             {
               "$type": "Document",
@@ -36,7 +40,7 @@
               "RelativeDocumentMoniker": "PB503 Json Serialize DeSerialize homework\\ProductService.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\Code Academy\\Homeworks\\18.12.2024\\PB503 Json Serialize DeSerialize homework\\PB503 Json Serialize DeSerialize homework\\ProductService.cs",
               "RelativeToolTip": "PB503 Json Serialize DeSerialize homework\\ProductService.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T17:05:47.316Z",
               "EditorCaption": ""
@@ -49,7 +53,7 @@
               "RelativeDocumentMoniker": "PB503 Json Serialize DeSerialize homework\\Product.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\Code Academy\\Homeworks\\18.12.2024\\PB503 Json Serialize DeSerialize homework\\PB503 Json Serialize DeSerialize homework\\Product.cs",
               "RelativeToolTip": "PB503 Json Serialize DeSerialize homework\\Product.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T16:58:09.018Z",
               "EditorCaption": ""
@@ -62,7 +66,7 @@
               "RelativeDocumentMoniker": "PB503 Json Serialize DeSerialize homework\\Program.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\Code Academy\\Homeworks\\18.12.2024\\PB503 Json Serialize DeSerialize homework\\PB503 Json Serialize DeSerialize homework\\Program.cs",
               "RelativeToolTip": "PB503 Json Serialize DeSerialize homework\\Program.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAAADQAAAA+AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T16:57:05.195Z",
               "EditorCaption": ""
